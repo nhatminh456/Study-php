@@ -1,4 +1,4 @@
-﻿# Bài 2: Biến trong PHP
+﻿# Bài 4: Biến trong PHP
 
 ## Mục tiêu
 

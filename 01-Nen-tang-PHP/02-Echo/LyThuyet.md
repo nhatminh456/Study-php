@@ -1,4 +1,4 @@
-﻿# Bài 5: echo
+﻿# Bài 2: echo
 
 ## Mục tiêu
 

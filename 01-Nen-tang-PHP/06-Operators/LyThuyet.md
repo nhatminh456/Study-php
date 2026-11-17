@@ -1,4 +1,4 @@
-﻿# Bài 4: Toán tử số học
+﻿# Bài 6: Toán tử số học
 
 ## Mục tiêu
 

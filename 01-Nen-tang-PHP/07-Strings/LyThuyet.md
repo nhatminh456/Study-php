@@ -1,4 +1,4 @@
-﻿# Bài 8: Chuỗi trong PHP
+﻿# Bài 7: Chuỗi trong PHP
 
 ## Mục tiêu
 

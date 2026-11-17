@@ -1,4 +1,4 @@
-﻿# Bài 7: Câu lệnh điều kiện
+﻿# Bài 8: Câu lệnh điều kiện
 
 ## Mục tiêu
 

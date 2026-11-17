@@ -1,4 +1,4 @@
-﻿# Bài 6: print
+﻿# Bài 3: print
 
 ## Mục tiêu
 
