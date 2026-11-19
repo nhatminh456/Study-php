@@ -1,13 +1,13 @@
 ## Sau khóa học này, bạn sẽ đạt được gì?
 
-### Giai đoạn 1: Nền tảng PHP (Bài 01-14)
+### Giai đoạn 1: Nền tảng PHP 
 - Tự cài đặt môi trường và chạy được chương trình PHP trên máy mà không cần XAMPP.
 - Nắm vững cú pháp cơ bản: biến, hằng số, kiểu dữ liệu, chuỗi và toán tử.
 - Viết được chương trình có điều kiện và vòng lặp để xử lý logic.
 - Làm việc thành thạo với mảng và các hàm xử lý mảng.
 - Biết tự viết hàm để tái sử dụng code và chia chương trình thành nhiều file.
 
-### Giai đoạn 2: Web PHP (Bài 15-22)
+### Giai đoạn 2: Web PHP 
 - Xây dựng được form nhận dữ liệu từ người dùng bằng GET và POST.
 - Kiểm tra và làm sạch dữ liệu đầu vào trước khi xử lý.
 - Xử lý upload file, cookie và session (ghi nhớ trạng thái người dùng).
